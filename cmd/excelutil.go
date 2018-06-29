@@ -1,5 +1,5 @@
 // ExcelUtil is a command line program that converts an excel workbook with potentially multiple spread sheets
-// of a given format to another format while doing the appropriate maths. It can create graphs and sort the
+// of a given format to another format while doing the appropriate math. It can create graphs and sort the
 // columns of the primary output according to the maximum value per output.
 // author: Daniel Schuette (email: d.schuette@online.de)
 // license: MIT license (see github.com/DanielSchuette)
