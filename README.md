@@ -18,7 +18,7 @@ A utility package to open and manipulate Microsoft Excel files using a simple CL
 
 
 ## Dependencies
-none
+`github.com/360EntSecGroup-Skylar/excelize`
 
 
 
