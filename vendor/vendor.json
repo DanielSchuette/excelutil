@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "IeRnjh87dK5JaWG0I6ZauqlQrhA=",
+			"path": "github.com/360EntSecGroup-Skylar/excelize",
+			"revision": "3a91b28ddbca53d09b46612fa4c2c29a65d42e41",
+			"revisionTime": "2018-06-20T07:53:30Z"
+		},
+		{
+			"checksumSHA1": "TGm+pCnjCKyPNGqsra8fZsHf9SY=",
+			"path": "github.com/DanielSchuette/excelutil",
+			"revision": "9faebdb0a5d00cae456be3a920c916e7db00efb8",
+			"revisionTime": "2018-06-29T22:57:12Z"
+		},
+		{
+			"checksumSHA1": "xxsSWMfc5xxI+zBK3AQ8uoxYgWk=",
+			"path": "github.com/DanielSchuette/excelutil/cmd",
+			"revision": "9faebdb0a5d00cae456be3a920c916e7db00efb8",
+			"revisionTime": "2018-06-29T22:57:12Z"
+		},
+		{
+			"checksumSHA1": "2jsbDTvwxafPp7FJjJ8IIFlTLjs=",
+			"path": "github.com/mohae/deepcopy",
+			"revision": "c48cc78d482608239f6c4c92a4abd87eb8761c90",
+			"revisionTime": "2017-09-29T03:49:55Z"
+		}
+	],
+	"rootPath": "github.com/DanielSchuette/excelutil"
+}
