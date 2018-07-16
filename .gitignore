@@ -18,6 +18,7 @@ Thumbs.db
 *.cpp
 *.o
 *.so
+*.exe
 
 # Shell scripts
 *.sh
