@@ -1,0 +1,5 @@
+github.com/360EntSecGroup-Skylar/excelize v0.0.0-20180620075330-3a91b28ddbca h1:d8qhwiq7GUo5bPT4PeTYz6+rYz3RdVqOP0PQ8f8f3L0=
+github.com/360EntSecGroup-Skylar/excelize v0.0.0-20180620075330-3a91b28ddbca/go.mod h1:R8KYLmGns0vDPe6/HyphW0mzW+MFexlGDafU0ykVEnU=
+github.com/DanielSchuette/excelutil v0.0.0-20180629225712-9faebdb0a5d0/go.mod h1:eXSug453Z7YJoPmziriG6QdoU456D4MZzmqYW4efmxI=
+github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 h1:RWengNIwukTxcDr9M+97sNutRR1RKhG96O6jWumTTnw=
+github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826/go.mod h1:TaXosZuwdSHYgviHp1DAtfrULt5eUgsSMsZf+YrPgl8=
